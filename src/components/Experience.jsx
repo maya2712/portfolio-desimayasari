@@ -15,14 +15,14 @@ import inters2 from './assets/inters/inters2.jpg'
 // ── Data ────────────────────────────────────────────────
 const internships = [
   {
-    label: 'Internship School',
+    label: 'Internship Experience',
     year: 'Nov 2024',
     role: 'IT Support',
-    company: 'UPT Puskesmas Melur Pekanbaru',
+    company: 'Melur Community Health Center, Pekanbaru',
     photos: [inters1, null, null, null],
   },
   {
-    label: 'Magang Nasional Batch II',
+    label: 'National Internship Batch II',
     year: 'Nov 2025 - Mei 2026',
     role: 'Public Facilities Officer',
     company: 'Kanwil Ditjen Imigrasi Riau',
